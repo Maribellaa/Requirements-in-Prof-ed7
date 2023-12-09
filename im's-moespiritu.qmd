@@ -1,0 +1,67 @@
+---
+title: "Simple Interest and Simple Discount"
+author: "Maribel Espiritu"
+format: html
+editor: visual
+---
+
+## **LESSON TITLE**
+   Simple Discount
+   
+## **LESSON OVERVIEW**
+   Money is invested or borrowed in thousands of transactions every day. When an investment is cashed in or when borrowed money is repaid, there is a fee that is collected or charged. This fee is called interest.
+   
+   In this chapter, you will learn how to calculate interest using simple interest. Although most financial transactions use compound interest (introduced in chapter 2), simple interest is still used in many short-term transactions.
+
+## **DESIRED LEARNING OUTCOMES**
+   At the end of this chapter, the student should be able to:
+   
+1. Define and understand the key terms
+2. Calculate the peso amount of interest using simple interest formula
+3. Calculate the principal, rate, time, or interest when the other three quantities are known
+4. Use the more common formulas in calculating simple interest
+5. Determine the face value, discount, proceeds, and maturity value of a promissory note
+
+## **LESSON CONTENT**
+
+**SIMPLE DISCOUNT**
+
+In simple interest, the amount of interest is usually paid at the end of the period together with the principal In some instances however, the amount of interest is deducted in advance and is computed based on the maturity value. This type of interest is known as **SIMPLE DISCOUNT OR DISCOUNT.**
+   
+**The Concept of Simple Discount** 
+
+**Discount**– refers to the amount deducted from maturity value of an obligation. The price of using the money is, therefore, deducted in advance. In this case, the borrower pays the original sum of money borrowed at the end of the term at a specified discount rate. Thus, the amount **F** is due at the end of the term **t**  is charged as interest in advance at simple discount rate **d**. 
+
+As a formula, the amount of discount also denoted by **D**, as in the case of a simple interest, is given by:
+
+$D=fdt$ where, $I$ is the **Discount**, $F$ is the **amount due**, $d$ is the **discount rate** and $t$ is the **term.**
+
+Formula for F, d, t
+
+$$F= \dfrac{D}{dt} \qquad
+\ d=\dfrac{D}{ft} \qquad
+t=\dfrac{D}{Fd}$$
+
+:::{exm:SimpleDiscount}
+### EXAMPLE
+
+1. How much interest will be collected in advance from a loan of P15,000 for 2 years if the discount rate is 8%?
+
+    Given:
+$$F= 15,000 \qquad
+\ d= 0.08 \qquad
+t= 2$$
+
+
+    **SOLUTION**
+   
+   Notice that the amount borrowed is interpreted as the future value of the loan. To solve D:
+
+$$\begin{align}
+    D &= fdt \\
+         &= 15,000 (0.08)(2)\\
+    &= P2,400 \\
+\end{align}$$
+:::
+
+
