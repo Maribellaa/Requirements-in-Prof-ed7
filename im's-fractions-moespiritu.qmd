@@ -6,44 +6,49 @@ editor: visual
 ---
 
 ### **I. UNIT TITLE/CHAPTER TITLE:**
-  Chapter 1 - Fundamental Concepts of Algebra
+$\qquad$ Chapter 1 - Fundamental Concepts of Algebra
     
 ### **II. LESSON TITLE:**
-  Lesson 6: Fractional Expressions
+$\qquad$ Lesson 6: Fractional Expressions
     
 ### **III. LESSON OVERVIEW:**
-  This chapter will discuss on the key concepts on the operations on rational expressions. Quotients or algebraic expressions are called **fractional expression**. Moreover, quotients of two polynomials such as $\frac{x^2-9}{x^2-7x+12},\qquad\frac{7}{4x-1},\qquad \frac{x-5}{4x^2-9}$ are called **rational expressions**.
+
+$\qquad$ This chapter will discuss on the key concepts on the operations on rational expressions. Quotients or algebraic expressions are called **fractional expression**. Moreover, quotients of two polynomials such as $\qquad$ $\frac{x^2-9}{x^2-7x+12},\qquad\frac{7}{4x-1},\qquad \frac{x-5}{4x^2-9}$ are called **rational expressions**.
 
 ### **IV. DESIRED LEARNING OUTCOMES**
-   At the end of this chapter, the student should be able to:
+$\qquad$ At the end of this chapter, the student should be able to:
+
 1. Define rational expressions. 
 2. Simplify rational algebraic expressions.
 3. Perform operations on rational algebraic expressions.
-4. Simplify complex fractions.
+4. Simplify complex rational expressions.
 
 ### **V. LESSON CONTENT**
-   The domain of a rational expression is the set of all numbers for which the denominator is not zero. In symbols: $\frac{P}{Q}$, where $P$ and $Q$ are polynomials and $Q \ne 0$.
    
-   The rules for operating with fractional expression are like those for numerical fractions. Recall that a fraction is reduced to lowest terms if its numerator and denominator have no factors in common aside from $\pm 1$. 
+$\qquad$ The domain of a rational expression is the set of all numbers for which the denominator is not zero. In symbols: $\frac{P}{Q}$, where $P$ and $Q$ are polynomials and $Q \ne 0$.
+   
+$\qquad$ The rules for operating with fractional expression are like those for numerical fractions. Recall that a fraction is reduced to lowest terms if its numerator and denominator have no factors in common aside from $\pm 1$. To reduce fraction, we apply the following **Cancellation Law**.
+$\qquad\frac{a}{c}\cdot\frac{b}{b}=\frac{a}{c}, \qquad\ b\ne 0\quad and\quad c\ne 0$.
 
-**Reduce Fraction to Lowest Terms**
+$\qquad$ The key success in simplifying rational expressions lies in your ability to factor polynomials. For example, $$\frac{18xy^5}{45x^2y^2}=\frac{(9xy^2)(2y^3)}{(9xy^2)(5x)}=\frac{2y^3}{5x}$$
 
-A fraction is said to be in its lowest term if there is no common factor in both members except one. The process of reduction fraction to its lowest term is given below.
+#### **Steps in Simplifying Rational Expressions**
 
 ::: {htm:Steps}
-1.  Determine the common factor to the both members of the fraction by investigation.
+1.  Determine the common factor to the numerator and denominator by investigation.
 2.  Divide both numerator and denominator by the common factor, that way, the numerator and the denominator of the reduced fraction is obtained.
 :::
 
 ::: {exm:ReductionOfFractionToLowestTerms}
-### Examples
+##### **Examples**
 
 1.$\ \dfrac{a^2 - x^2}{a^3 - x^3}$
 
-   **Solution:** 
+$\qquad$ **Solution:** 
 $$
 \begin{aligned}
   \dfrac{a^2 - x^2}{a^3 - x^3} &= \frac{(a+x)(a-x)}{(a-x)(a^2-ax+x^2)} \\
+  &= \frac{(a+x)(1)}{(1)(a^2-ax+x^2)} \\
          &= \frac{(a+x)}{(a^2-ax+x^2)}
 \end{aligned}
 $$
@@ -52,7 +57,7 @@ $$
 
 2. $\ \dfrac{2m - 2n}{m^2 - n^2}$
 
-   **Solution:** 
+$\qquad$ **Solution:** 
 $$
 \begin{aligned}
   \dfrac{2m - 2n}{m^2 - n^2} &= \frac{2(m-n)}{(m-n)(m+n)} \\
@@ -62,7 +67,7 @@ $$
 
 3. $\dfrac{2c^2d- 6}{c^4d^2-6c^2d+9}$
 
-   **Solution:**
+$\qquad$ **Solution:**
 $$
 \begin{aligned}
   \dfrac{2c^2d- 6}{c^4d^2-6c^2d+9} &= \frac{2(c^2d-3)}{(c^2d-3)(c^2d-3)} \\
@@ -71,18 +76,202 @@ $$
 $$
 :::
 
-### ADDITION AND SUBSTRACTION OF FRACTIONS
+### **MULTIPLIYING RATIONAL EXPRESSION**
+
+$\qquad$ The product of two or more rational expression is the product of the numerators divided by the product of the denominators. In symbols, $\frac{a}{b}\cdot\frac{c}{d}=\frac{ac}{bd} \quad , bd \ne 0$. The product can be simplified further if cancellation will be applied.
+
+:::{htm:steps}
+#### **Steps for Multiplying Rational Expression**
+
+1. Simplify/Factor each expression, if necessary.
+2. Cancel all sets of common factors present to the both numerator and denominator.
+3. Gather and multiply the remaining factors in the numerator and divide it by the product of all the remaining factors in the denominator.
+:::
+
+:::{exm:multiplicationoffraction}
+##### **Examples:**
+
+1. $\frac{a^2b}{a+b} \cdot \frac{a^2-b^2}{a^3b^2-a^2b}$
+
+$\qquad$ **Solution:**
+$$
+\begin{aligned}
+    \frac{a^2b}{a+b} \cdot \frac{a^2-b^2}{a^3b^2-a^2b} &= \frac{a^2b}{a+b} \cdot \frac{(a+b)(a-b)}{a^2b(ab-1)} \\
+         &= \frac{1}{1} \cdot \frac{1(a-b)}{1(ab-1)} \\
+         &= \frac{a-b}{ab-1}
+\end{aligned}
+$$
+
+2. $\frac{m-1}{5m^2-m} \cdot \frac{(m+1)^2}{m^2-1}$
+
+$\qquad$ **Solution:**
+$$
+\begin{aligned}
+\frac{m-1}{5m^2-m} \cdot \frac{(m+1)^2}{m^2-1} &= \frac{m-1}{m(5m-1)} \cdot \frac{(m+1)(m+1)}{(m-1)(m+1)} \\
+     &= \frac{1}{m(5m-1)} \cdot \frac{m+1}{1} \\
+     &= \frac{m+1}{m(5m-1)}
+\end{aligned}
+$$
+
+3. $\frac{c^2-2cd+d^2}{c^3-d^3} \cdot \frac{c^2+cd+d^2}{c^2d^2}$
+
+$\qquad$ **Solution:**
+$$
+\begin{aligned}
+\frac{c^2-2cd+d^2}{c^3-d^3} \cdot \frac{c^2+cd+d^2}{c^2d^2} &= \frac{(c-d)(c-d)}{(c-d)(c^2+cd+d^2)} \cdot \frac{c^2+cd+d^2}{(c+d)(c-d)} \\
+     &= \frac{(1)(1)}{(1)(1)} \cdot \frac{1}{(c+d)(1)} \\
+     &= \frac{1}{c+d)}
+\end{aligned}
+$$
+
+4. $\frac{3x^2}{x^2-1} \cdot \frac{x^2-6x-7}{3x^2-21x}$
+
+$\qquad$ **Solution:**
+$$
+\begin{aligned}
+\frac{3x^2}{x^2-1} \cdot \frac{x^2-6x-7}{3x^2-21x} &= \frac{3x(x)}{(x+1)(x-1)} \cdot \frac{(x-7)(x+1)}{3x(x-7)} \\
+& = \frac{1(x)}{1(x-1)} \cdot\frac{(1)(1)}{(1)(1)} \\
+&= \frac{x}{x-1}
+\end{aligned}
+$$
+:::
+
+### **DIVIDING RATIONAL EXPRESSIONS**
+
+$\qquad$ The quotient of two rational expression is the product of the dividend and the reciprocal of the divisor. In symbol, $\frac{a}{b}\div\frac{c}{d}=\frac{a}{b}\cdot\frac{d}{c}=\frac{ad}{bc},\qquad b, c, d \ne 0$. The simplification used in multiplication of fractions shall be applied to simplify the quotient.
+   
+:::{htm:stepsinperformingdivisionoffraction}
+#### **Steps in Dividing Rational Expression**
+
+1. Simplify all expression given as numerator and denominator.
+2. Multiply the  dividend by the reciprocal (inverse) of the divisor.
+3. Apply cancellation to common expression found in the numerator and denominator.
+4. Gather and multiply all remaining factors in the numerator then divide it by the product of all remaining factors of the denominator. 
+
+**Hint**: Once the reciprocal of the fractional divisor is taken, disregard the original operation, i.e., division and proceed as in multiplication of fractions.
+:::
+
+##### **Examples:**
+
+1. $\frac{x}{x-3}\div \frac{x^2-x}{2x-6}$
+
+$\qquad$ **Solution:**
+$$
+\begin{aligned}
+\frac{x}{x-3}\div \frac{x^2-x}{2x-6} &= \frac{x}{x-3}\cdot\frac{2x-6}{x^2-x}\\
+         &= \frac{x}{x-3}\cdot\frac{2(x-3)}{x(x-1)} \\
+         &= \frac{1}{1}\cdot\frac{2(1)}{x-1} \\
+         &= \frac{2}{x-1}
+\end{aligned}
+$$
+
+2. $\frac{5a-10b}{(a+b)^2}\div\frac{15a-20b}{2(a+b)^2}$
+
+$\qquad$ **Solution:**
+$$
+\begin{aligned}
+\frac{5a-10b}{(a+b)^2}\div\frac{15a-20b}{2(a+b)^2}&= \frac{5a-10b}{(a+b)^2}\cdot\frac{2(a+b)^2}{15a-20b} \\
+&= \frac{5(a-2b)}{(a+b)^2}\cdot\frac{2(a+b)^2}{5(3a-4b)} \\
+&= \frac{1(a-2b)}{1}\cdot\frac{2(1)}{3a-4b} \\
+&= \frac{2(a-2b)}{3a-4b} \\
+\end{aligned}
+$$
+
+3. $\frac{z^2-1}{z^2+2z+1}\div z^3-1$
+
+$\qquad$ **Solution:**
+$$
+\begin{aligned}
+\frac{z^2-1}{z^2+2z+1}\div z^3-1 &= \frac{z^2-1}{z^2+2z+1}\div\frac{1}{z^3-1}\\
+&= \frac{(z+1)(z-1)}{(z+1)(z+1)}\cdot\frac{1}{(z-1)(z^2+z+1)} \\
+&=\frac{(1)(1)}{(1)(z+1)}\cdot\frac{1}{(1)(z^2+z+1)} \\
+&=\frac{1}{(z+1)(z^2+z+1)}
+\end{aligned}
+$$
+
+#### **ADDING AND SUBSTRACTING SIMILAR RATIONAL EXPRESSION**
+
+$\qquad$ In adding or subtracting similar rational expressions, add or subtract the numerators and write the answer in the numerator of the result over the common denominator. In symbols, $\frac{a}{b}\pm\frac{c}{b}=\frac{a\pm c}{b}, \qquad b\ne 0$
+
+:::{htm:steps}
+#### **Steps in Adding and Subtracting Simmilar Rational Expression**
+
+1. Combine like terms in the numerator
+2. Factor out the numerator and denominator if possible.
+3. Apply cancellation to common factor found in the numerator and denominator.
+:::
+
+:::{exm:additionandsubstraction}
+##### **Examples:**
+
+1. $\frac{x^2-2x-7}{x^2-9}+\frac{3x+1}{x^2-9}$
+
+$\qquad$ **Solution:**
+
+$$
+\begin{aligned}
+\frac{x^2-2x-7}{x^2-9}+\frac{3x+1}{x^2-9} & =\frac{x^2-2x-7+3x+1}{x^2-9} \\
+  &= \frac{x^2+x-6}{x^2-9} \\
+  &=\frac{(x+3)(x-2)}{(x-3)(x+3)} \\
+  &=\frac{x-2}{x+3}
+\end{aligned}
+$$
+
+2. $\frac{x^2+3x-2}{x^2-4}+\frac{x^2-2x+4}{x^2-4}$
+
+$\qquad$ **Solution:**
+
+$$
+\begin{aligned}
+\frac{x^2+3x-2}{x^2-4}+\frac{x^2-2x+4}{x^2-4} & =\frac{x^2+3x-2x-2+4}{x^2-4} \\
+  &= \frac{x^2+x+2}{x^2-4} \\
+  &=\frac{(x+2)(x-1)}{(x-2)(x+2)} \\
+  &=\frac{x-1}{x-2}
+\end{aligned}
+$$
+
+3. $\frac{x^2+5x-20}{3x^2+x-2}-\frac{-10-6x-5x^2}{3x^2+x-2}$
+
+$\qquad$ **Solution:**
+
+$$
+\begin{aligned}
+\frac{x^2+5x-20}{3x^2+x-2}-\frac{-10-6x-5x^2}{3x^2+x-2} & =\frac{x^2+5x-20-(-10-6x-5x^2)}{3x^2+x-2} \\
+  &= \frac{x^2+5x-20+10+6x+5x^2}{3x^2+x-2} \\
+  &= \frac{x^2++5x^2+5x+6x-20+10}{3x^2+x-2} \\
+  &=\frac{6x^2+11x-10}{3x^2+x-2} \\
+  &=\frac{(3x-2)(2x+5)}{(3x-2)(x+1)} \\
+  &=\frac{2x+5}{x+1}
+\end{aligned}
+$$
+
+4. $\frac{x^2+3x+2}{x^2-2x+1}-\frac{3x+3}{x^2-2x+1}$
+
+$\qquad$ **Solution:**
+
+$$
+\begin{aligned}
+\frac{x^2+3x+2}{x^2-2x+1}-\frac{3x+3}{x^2-2x+1} & =\frac{x^2+3x+2-(3x+3)}{x^2-2x+1} \\
+& =\frac{x^2+3x+2-3x-3}{x^2-2x+1} \\
+  &= \frac{x^2-1}{x^2-2x+1} \\
+  &=\frac{(x+1)(x-1)}{(x-1)(x-1)} \\
+  &=\frac{x+1}{x-1}
+\end{aligned}
+$$
+:::
 
 ::: {htm:additionofFractions}
 **LEAST COMMON DENOMINATOR (LCD)**
 
-The least common denominator (LCD) of a given set of fractions is the least or smallest number which can be divided by all the denominators of the given fractions. The LCD of the given set of fractions can be determined by multiplying all different prime factors used in taking the maximum number of times it is used in any of the numbers.
+$\qquad$ The least common denominator (LCD) of a given set of fractions is the least or smallest number which can be divided by all the denominators of the given fractions. The LCD of the given set of fractions can be determined by multiplying all different prime factors used in taking the maximum number of times it is used in any of the numbers.
+:::
 
-**Examples**:
+:::{exm:LCD}
+##### **Examples**:
 
 1. Find the LCD of $\dfrac{1}{3xy} ,\ \dfrac{2}{9xy^3} ,\ \dfrac{3}{12x^2y^2}$
 
-   **Prime Factors** 
+$\qquad$ **Prime Factors:** 
 $$
 \begin{aligned}
      3xy &= 3xy \\
@@ -95,7 +284,7 @@ $$
 
 2. Find the LCD of $\dfrac{1}{x(x+1)} ,\ \dfrac{1}{x^2(x-1)}$
 
-   **Prime Factors** 
+$\qquad$ **Prime Factors:** 
 $$
 \begin{aligned}
      x(x+1) &= x(x+1) \implies x\cdot (x+1) \\
@@ -106,7 +295,7 @@ $$
 
 3. Find the LCD of $\dfrac{4}{x^2y^2} ,\ \dfrac{x}{x^2-2xy+y^2} ,\ \dfrac{x+1}{x+y}$
 
-   **Prime Factors** 
+   **Prime Factors:** 
 $$
 \begin{aligned}
      x^2-y^2 &= (x+y)(x-y)  \\
@@ -119,9 +308,12 @@ $$
 :::
 
 ::: {htm:DissimilarFraction}
-**Steps of Solving Dissimilar Fraction**
+#### **ADDING AND SUBSTRACTING DISSIMILAR RATIONAL EXPRESSION**
 
-Fractions are classified as similar and dissimilar fractions. In addition and/or subtraction of dissimilar fractions, skills in determining the least common denominator are important. The following steps will be useful in addition and subtraction of dissimilar fractions.
+$\qquad$ In adding or subtracting similar rational expressions, change the rational algebraic expression into similar rational algebraic expressions using the least common denominator (LCD) and proceed as in adding similar fractions. In symbols, $\frac{a}{b}\pm\frac{c}{d}=\frac{ad\pm bc}{bd}, \qquad b\ne 0\quad and \quad d\ne 0$
+
+:::{htm:steps}
+#### **Steps in Adding and Subtracting Dissimilar Rational Expression**
 
 1.  Determine the least common denominator (LCD) of the given fractions.
 2.  Solve for the equivalent fractions. To do so, divide the LCD by the given denominator of each term then multiply the quotient by the original numerator, this will yield to the new numerator. The equivalent fraction of each fractional term will be the new numerator divided by the LCD
@@ -129,11 +321,11 @@ Fractions are classified as similar and dissimilar fractions. In addition and/or
 4.  Apply cancellation if feasible to simplify the answer.
 :::
 
-**Examples:**
+##### **Examples:**
 
 1. $\frac{x-1}{x}-\frac{x}{x+1}$
 
-   **Solution:** 
+$\qquad$ **Solution:** 
 $$
 \begin{aligned}
      \frac{x-1}{x}-\frac{x}{x+1} &= \frac{(x+1)(x-1)-x(x)}{x(x+1)}     \\
@@ -144,7 +336,7 @@ $$
 
 2. $\frac{4a}{a-b}+\frac{3}{a^2-b^2}$
 
-   **Solution:**
+$\qquad$ **Solution:**
 $$
 \begin{aligned}
      \frac{4a}{a-b}+\frac{3}{a^2-b^2} &= \frac{4a}{a-b}+\frac{3}{(a+b)(a-b)} \\
@@ -155,7 +347,7 @@ $$
 
 3. $\frac{2x}{x-2}+ \frac{3x}{x+2}$
 
-   **Solution:** 
+$\qquad$ **Solution:** 
 $$
 \begin{aligned}
      \frac{2x}{x-2}+ \frac{3x}{x+2} &= \frac{2x(x+2)+3x(x-2)}{(x-2)(x+2)} \\
@@ -167,7 +359,7 @@ $$
 
 4. $\frac{3x}{x^2-2ax+a^2}+\frac{2}{x+a}-\frac{1}{x-a}$
 
-   **Solution:**
+$\qquad$ **Solution:**
 $$
 \begin{aligned}
      \frac{3x}{x^2-2ax+a^2}+\frac{2}{x+a}-\frac{1}{x-a} &= \frac{3x}{(x-a)(x-a)}+\frac{2}{x+a}-\frac{1}{x-a} \\
@@ -177,132 +369,23 @@ $$
           &= \frac{4x^2-ax+3a^2}{(x-a)^2(x+a)}
 \end{aligned}
 $$
-
-### MULTIPLICATION OF FRACTIONS
-
-The product of two or more fractions is determined by multiplying all the given numerators and dividing its product by the product of all the given denominators. The product can be simplified further if cancellation will be applied.
-
-:::{htm:steps}
-  **Steps for finding the product of two or more fractions**
-
-1. Simplify/Factor all members of the given fractions, if necessary.
-2. Cancel all sets of common factors present to the both numerator and denominator.
-3. Gather and multiply the remaining factors in the numerator and divide it by the product of all the remaining factors in the denominator.
 :::
 
-  **Examples:**
 
-1. $\frac{a^2b}{a+b} \cdot \frac{a^2-b^2}{a^3b^2-a^2b}$
+### **COMPLEX RATIONAL EXPRESSION**
 
-   **Solution:**
-$$
-\begin{aligned}
-    \frac{a^2b}{a+b} \cdot \frac{a^2-b^2}{a^3b^2-a^2b} &= \frac{a^2b}{a+b} \cdot \frac{(a+b)(a-b)}{a^2b(ab-1)} \\
-         &= \frac{1}{1} \cdot \frac{1(a-b)}{1(ab-1)} \\
-         &= \frac{a-b}{ab-1}
-\end{aligned}
-$$
+$\qquad$ A rational expression is said to be in its simplest form when the numerator and denominator are polynomials with no common factors other than 1. If the numerator or denominator, or both numerator and denominator of a rational expression is also a rational expression, it is called a complex rational expression. Simplifying complex rational expressions is transforming it into a simple rational expression. You need all the concepts learned previously to simplify complex rational expressions.
 
-2. $\frac{m-1}{5m^2-m} \cdot \frac{(m+1)^2}{m^2-1}$
+$\qquad$ A complex rational expressions can be simplified by first combining both its numerator and its denominator into single fractions, then inverting the denominator and multiplying.
 
-   **Solution:**
-$$
-\begin{aligned}
-\frac{m-1}{5m^2-m} \cdot \frac{(m+1)^2}{m^2-1} &= \frac{m-1}{m(5m-1)} \cdot \frac{(m+1)(m+1)}{(m-1)(m+1)} \\
-     &= \frac{1}{m(5m-1)} \cdot \frac{m+1}{1} \\
-     &= \frac{m+1}{m(5m-1)}
-\end{aligned}
-$$
-
-3. $\frac{c^2-2cd+d^2}{c^3-d^3} \cdot \frac{c^2+cd+d^2}{c^2d^2}$
-
-   **Solution**
-$$
-\begin{aligned}
-\frac{c^2-2cd+d^2}{c^3-d^3} \cdot \frac{c^2+cd+d^2}{c^2d^2} &= \frac{(c-d)(c-d)}{(c-d)(c^2+cd+d^2)} \cdot \frac{c^2+cd+d^2}{(c+d)(c-d)} \\
-     &= \frac{(1)(1)}{(1)(1)} \cdot \frac{1}{(c+d)(1)} \\
-     &= \frac{1}{c+d)}
-\end{aligned}
-$$
-
-4. $\frac{3x^2}{x^2-1} \cdot \frac{x^2-6x-7}{3x^2-21x}$
-
-   **Solution**
-$$
-\begin{aligned}
-\frac{3x^2}{x^2-1} \cdot \frac{x^2-6x-7}{3x^2-21x} &= \frac{3x(x)}{(x+1)(x-1)} \cdot \frac{(x-7)(x+1)}{3x(x-7)} \\
-& = \frac{1(x)}{1(x-1)} \cdot\frac{(1)(1)}{(1)(1)} \\
-&= \frac{x}{x-1}
-\end{aligned}
-$$
-:::
-
-### DIVISION OF FRACTIONS
-
-   In division of fractions, the quotient is determined by multiplying the fractional dividend by the reciprocal of the fractional divisor. The simplification used in multiplication of fractions shall be applied to simplify the quotient. The following steps will be helpful in performing division of fractions.
-   
-:::{htm:stepsinperformingdivisionoffraction}
-   **Steps in performing division of fractions**
-
-1. Simplify all expression given as numerator and denominator.
-2. Multiply the fractional dividend by the reciprocal (inverse) of the fractional divisor.
-3. Apply cancellation to common expression found in the numerator and denominator.
-4. Gather and multiply all remaining factors in the numerator then divide it by the product of all remaining factors of the denominator. 
-
-**Hint**: Once the reciprocal of the fractional divisor is taken, disregard the original operation, i.e., division and proceed as in multiplication of fractions.
-:::
-
-  **Examples:**
-
-1. $\frac{x}{x-3}\div \frac{x^2-x}{2x-6}$
-
-   **Solution:**
-$$
-\begin{aligned}
-\frac{x}{x-3}\div \frac{x^2-x}{2x-6} &= \frac{x}{x-3}\cdot\frac{2x-6}{x^2-x} \\
-         &= \frac{x}{x-3}\cdot\frac{2(x-3)}{x(x-1)} \\
-         &= \frac{1}{1}\cdot\frac{2(1)}{x-1} \\
-         &= \frac{2}{x-1}
-\end{aligned}
-$$
-
-2. $\frac{5a-10b}{(a+b)^2}\div\frac{15a-20b}{2(a+b)^2}$
-
-   **Solution:**
-$$
-\begin{aligned}
-\frac{5a-10b}{(a+b)^2}\div\frac{15a-20b}{2(a+b)^2}&= \frac{5a-10b}{(a+b)^2}\cdot\frac{2(a+b)^2}{15a-20b} \\
-&= \frac{5(a-2b)}{(a+b)^2}\cdot\frac{2(a+b)^2}{5(3a-4b)} \\
-&= \frac{1(a-2b)}{1}\cdot\frac{2(1)}{3a-4b} \\
-&= \frac{2(a-2b)}{3a-4b} \\
-\end{aligned}
-$$
-
-3. $\frac{z^2-1}{z^2+2z+1}\div z^3-1$
-
-   **Solution:**
-$$
-\begin{aligned}
-\frac{z^2-1}{z^2+2z+1}\div z^3-1 &= \frac{z^2-1}{z^2+2z+1}\div\frac{1}{z^3-1}\\
-&= \frac{(z+1)(z-1)}{(z+1)(z+1)}\cdot\frac{1}{(z-1)(z^2+z+1)} \\
-&=\frac{(1)(1)}{(1)(z+1)}\cdot\frac{1}{(1)(z^2+z+1)} \\
-&=\frac{1}{(z+1)(z^2+z+1)}
-\end{aligned}
-$$
-:::
-
-### COMPLEX FRACTIONS
-
-A complex fraction is a fraction whose numerator and/or denominator is composed of a whole number or a fraction. A whole number can easily be transformed to fraction by dividing it by one. Additionally, fractional expressions with separate fractions in the numerator, denominator, or both, are called **complex fractions**.
-
-A complex fraction can be simplified by first combining both its numerator and its denominator into single fractions, then inverting the denominator and multiplying.
-
-  **Examples:Simplifying a Complex Fraction**
+##### **Examples:Simplifying a Complex Fraction**
 
 1.$\frac{z-\frac{1}{2}}{z-\frac{1}{z}}$
 
-  **Solution:**
-   Combining numerator and denominator fractions, we have
+$\qquad$ **Solution:**
+
+$\qquad$ Combining numerator and denominator fractions, we have
+
 $$
 \begin{aligned}
 \frac{z-\frac{1}{2}}{z-\frac{1}{z}}&= \frac{\frac{z-1}{z}}{\frac{z^2-1}{z}}  &&& \text{Combine Fractions} \\
@@ -314,8 +397,8 @@ $$
 
 2. $\frac{\frac{2}{x}-3}{1-\frac{1}{x-1}}$
 
-   **Solution**
-  Combining numerator and denominator fractions, we have 
+$\qquad$ **Solution:**
+$\qquad$ Combining numerator and denominator fractions, we have 
 $$
 \begin{aligned}
 \frac{\frac{2}{x}-3}{1-\frac{1}{x-1}}&= \frac{\frac{2-3(x)}{x}}{\frac{1(x-1)-1}{x-1}}  &&& \text{Combine Fractions} \\
@@ -327,7 +410,7 @@ $$
 $$
 3. $\frac{\frac{1}{x^2}-\frac{1}{y^2}}{\frac{1}{x}-\frac{1}{y}}$
 
-   **Solution**
+$\qquad$ **Solution:**
 $$
 \begin{aligned}
 \frac{\frac{1}{x^2}-\frac{1}{y^2}}{\frac{1}{x}-\frac{1}{y}}&= \frac{(\frac{1}{x^2}-\frac{1}{y^2})x^2y^2}{(\frac{1}{x}-\frac{1}{y})x^2y^2}  \\
@@ -340,7 +423,7 @@ $$
 
 4. $\frac{\sqrt{4-x^2}+\frac{x^2}{\sqrt{4-x^2}}}{4-x^2}$
 
-   **Solution**
+$\qquad$ **Solution:**
 $$
 \begin{aligned}
 \frac{\sqrt{4-x^2}+\frac{x^2}{\sqrt{4-x^2}}}{4-x^2}&= \frac{\sqrt{4-x^2}+\frac{x^2}{\sqrt{4-x^2}}}{4-x^2}\cdot\frac{\sqrt{4-x^2}}{\sqrt{4-x^2}}  \\
@@ -349,33 +432,46 @@ $$
 \end{aligned}
 $$
 
-### LEARNING ACTIVITIES
+### **LEARNING ACTIVITIES**
 
 A. Simplify the following expression.
 
 1. $\frac{x^2+4x-12}{3x-6}$
+
 2. $\frac{x^3-4x}{x^2+x-2}$
+
 3. $\frac{12+x-x^2}{2x^2-9x+4}$
 
 B. Perform the indicated operation and simplify
+
 1. $\frac{x^3-8}{x^2-4}\div\frac{x^2+2x+4}{x^3-8}$
+
 2. $\frac{2x^2+x-6}{x^2+4x-5}\cdot\frac{x^3-3x^2+2x}{4x^2-6x}$
+
 3. $\frac{x}{x-3}-\frac{2}{3x+4}$
 
 
-### ASSIGNMENT
+### **ASSIGNMENT**
+A.Perform the indicated operations on rational expression and simplify
 
 1. $\frac{3}{x-1}-\frac{2}{x}+\frac{x+3}{x^2-1}$
+
 2. $\frac{x-2}{x^2+6x+9}-\frac{x+2}{2x^2-18}$
+
 3. $\frac{\frac{1}{x+h}-\frac{1}{x}}{h}$
+
 4. $\frac{\frac{1}{a}+\frac{1}{b}}{\frac{1}{a}-\frac{1}{b}}$
+
 5. $\frac{{\frac{m+1}{m-2}+\frac{m+1}{m-1}}}{\frac{m+2}{m-2}}$
 
-### EVALUATION
+### **EVALUATION**
 
 
-### REFERENCES
+### **REFERENCES**
 
 Jesuitas, R.M., et al. (2013).College Algebra. MUTYA PUBLISHING HOUSE, INC. Malabon City. ISBN 978-971-821-402-2
 
+https://www.depednegor.net/uploads/8/3/5/2/8352879/math_learniners_module.pdf
+
+https://www.slideshare.net/jesnienadatel/rational-expressions-module
 
