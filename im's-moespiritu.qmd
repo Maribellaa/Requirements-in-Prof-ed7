@@ -17,10 +17,10 @@ In Algebra, the concept of fraction is also helpful. The basic principle for fra
 
 At the end of this chapter, the student should be able to:
 
-1. Determine the common factor to the both members of the fraction and reduced fraction to it's lowest term.
-3.  Determine the least common denominator (LCD) of the given fractions and solve for the equivalent fractions.
-4.  Use the more common formulas in finding the product of two or more functions.
-5.  Solve the qoutient of the given fractions.
+1.  Determine the common factor to the both members of the fraction and reduced fraction to it's lowest term.
+2.  Determine the least common denominator (LCD) of the given fractions and solve for the equivalent fractions.
+3.  Use the more common formulas in finding the product of two or more functions.
+4.  Solve the qoutient of the given fractions.
 
 ### **LESSON CONTENT**
 
@@ -38,8 +38,7 @@ A fraction is said to be in its lowest term if there is no common factor in both
 
 1.$\ \dfrac{a^2 - x^2}{a^3 - x^3}$
 
-   **Solution:** 
-$$
+**Solution:** $$
 \begin{aligned}
   \dfrac{a^2 - x^2}{a^3 - x^3} &= \frac{(a+x)(a-x)}{(a-x)(a^2-ax+x^2)} \\
          &= \frac{(a+x)}{(a^2-ax+x^2)}
@@ -48,25 +47,23 @@ $$
 
 **Note**: Notice that the common factor is not evident from the given expression. Factoring each member of the given fraction will be useful.
 
-2. $\ \dfrac{2m - 2n}{m^2 - n^2}$
+2.  $\ \dfrac{2m - 2n}{m^2 - n^2}$
 
-   **Solution:** 
-$$
-\begin{aligned}
-  \dfrac{2m - 2n}{m^2 - n^2} &= \frac{2(m-n)}{(m-n)(m+n)} \\
-         &= \frac{2}{m+n}
-\end{aligned}
-$$
+    **Solution:** $$
+    \begin{aligned}
+      \dfrac{2m - 2n}{m^2 - n^2} &= \frac{2(m-n)}{(m-n)(m+n)} \\
+          &= \frac{2}{m+n}
+    \end{aligned}
+    $$
 
-3. $\dfrac{2c^2d- 6}{c^4d^2-6c^2d+9}$
+3.  $\dfrac{2c^2d- 6}{c^4d^2-6c^2d+9}$
 
-   **Solution:**
-$$
-\begin{aligned}
-  \dfrac{2c^2d- 6}{c^4d^2-6c^2d+9} &= \frac{2(c^2d-3)}{(c^2d-3)(c^2d-3)} \\
-         &= \frac{2}{c^2d-3}
-\end{aligned}
-$$
+    **Solution:** $$
+    \begin{aligned}
+      \dfrac{2c^2d- 6}{c^4d^2-6c^2d+9} &= \frac{2(c^2d-3)}{(c^2d-3)(c^2d-3)} \\
+          &= \frac{2}{c^2d-3}
+    \end{aligned}
+    $$
 :::
 
 ### ADDITION AND SUBSTRACTION OF FRACTIONS
@@ -78,42 +75,39 @@ The least common denominator (LCD) of a given set of fractions is the least or s
 
 **Examples**:
 
-1. Find the LCD of $\dfrac{1}{3xy} ,\ \dfrac{2}{9xy^3} ,\ \dfrac{3}{12x^2y^2}$
+1.  Find the LCD of $\dfrac{1}{3xy} ,\ \dfrac{2}{9xy^3} ,\ \dfrac{3}{12x^2y^2}$
 
-   **Prime Factors** 
-$$
-\begin{aligned}
-     3xy &= 3xy \\
-     9xy^3     &= 3 \cdot 3\cdot x\cdot y^3 \\
-     12x^2y^2 &= 2\cdot 2\cdot 3\cdot x^2\cdot y^3 \\
-     LCD &= 3^2\cdot 2^2\cdot x^2\cdot y^2 \\
-         &= 36x^2y^2
-\end{aligned}
-$$
+    **Prime Factors** $$
+    \begin{aligned}
+      3xy &= 3xy \\
+      9xy^3     &= 3 \cdot 3\cdot x\cdot y^3 \\
+      12x^2y^2 &= 2\cdot 2\cdot 3\cdot x^2\cdot y^3 \\
+      LCD &= 3^2\cdot 2^2\cdot x^2\cdot y^2 \\
+          &= 36x^2y^2
+    \end{aligned}
+    $$
 
-2. Find the LCD of $\dfrac{1}{x(x+1)} ,\ \dfrac{1}{x^2(x-1)}$
+2.  Find the LCD of $\dfrac{1}{x(x+1)} ,\ \dfrac{1}{x^2(x-1)}$
 
-   **Prime Factors** 
-$$
-\begin{aligned}
-     x(x+1) &= x(x+1) \implies x\cdot (x+1) \\
-     x^2(x-1) &= x^2(x-1) \implies x \cdot x\cdot (x-1) \\
-     LCD &= x^2(x+1)(x-1) \\
-\end{aligned}
-$$
+    **Prime Factors** $$
+    \begin{aligned}
+      x(x+1) &= x(x+1) \implies x\cdot (x+1) \\
+      x^2(x-1) &= x^2(x-1) \implies x \cdot x\cdot (x-1) \\
+      LCD &= x^2(x+1)(x-1) \\
+    \end{aligned}
+    $$
 
-3. Find the LCD of $\dfrac{4}{x^2y^2} ,\ \dfrac{x}{x^2-2xy+y^2} ,\ \dfrac{x+1}{x+y}$
+3.  Find the LCD of $\dfrac{4}{x^2y^2} ,\ \dfrac{x}{x^2-2xy+y^2} ,\ \dfrac{x+1}{x+y}$
 
-   **Prime Factors** 
-$$
-\begin{aligned}
-     x^2-y^2 &= (x+y)(x-y)  \\
-     x^2-2xy+y^2 &= (x-y)(x-y)  \\
-     x+y &= x+y \\
-     LCD &= (x+y)(x-y)(x-y) \\
-         &= (x+y)(x-y)^2
-\end{aligned}
-$$
+    **Prime Factors** $$
+    \begin{aligned}
+      x^2-y^2 &= (x+y)(x-y)  \\
+      x^2-2xy+y^2 &= (x-y)(x-y)  \\
+      x+y &= x+y \\
+      LCD &= (x+y)(x-y)(x-y) \\
+          &= (x+y)(x-y)^2
+    \end{aligned}
+    $$
 :::
 
 ::: {htm:DissimilarFraction}
@@ -129,165 +123,152 @@ Fractions are classified as similar and dissimilar fractions. In addition and/or
 
 **Examples:**
 
-1. $\frac{x-1}{x}-\frac{x}{x+1}$
+1.  $\frac{x-1}{x}-\frac{x}{x+1}$
 
-   **Solution:** 
-$$
-\begin{aligned}
-     \frac{x-1}{x}-\frac{x}{x+1} &= \frac{(x+1)(x-1)-x(x)}{x(x+1)}     \\
-          &= \frac{x^2-1-x^2}{x(x+1)}        \\
-          &= \frac{-1}{x(x+1)}     
-\end{aligned}
-$$
+    **Solution:** $$
+    \begin{aligned}
+      \frac{x-1}{x}-\frac{x}{x+1} &= \frac{(x+1)(x-1)-x(x)}{x(x+1)}     \\
+           &= \frac{x^2-1-x^2}{x(x+1)}        \\
+           &= \frac{-1}{x(x+1)}     
+    \end{aligned}
+    $$
 
-2. $\frac{4a}{a-b}+\frac{3}{a^2-b^2}$
+2.  $\frac{4a}{a-b}+\frac{3}{a^2-b^2}$
 
-   **Solution:**
-$$
-\begin{aligned}
-     \frac{4a}{a-b}+\frac{3}{a^2-b^2} &= \frac{4a}{a-b}+\frac{3}{(a+b)(a-b)} \\
-          &= \frac{(a+b)(4a)+3}{(a+b)(a-b)}        \\
-          &= \frac{4a^2+4ab+3}{(a+b)(a-b)}     
-\end{aligned}
-$$
+    **Solution:** $$
+    \begin{aligned}
+      \frac{4a}{a-b}+\frac{3}{a^2-b^2} &= \frac{4a}{a-b}+\frac{3}{(a+b)(a-b)} \\
+           &= \frac{(a+b)(4a)+3}{(a+b)(a-b)}        \\
+           &= \frac{4a^2+4ab+3}{(a+b)(a-b)}     
+    \end{aligned}
+    $$
 
-3. $\frac{2x}{x-2}+ \frac{3x}{x+2}$
+3.  $\frac{2x}{x-2}+ \frac{3x}{x+2}$
 
-   **Solution:** 
-$$
-\begin{aligned}
-     \frac{2x}{x-2}+ \frac{3x}{x+2} &= \frac{2x(x+2)+3x(x-2)}{(x-2)(x+2)} \\
-          &= \frac{2x^2+4x+3x^2-6x}{(x-2)(x+2)}        \\
-          &= \frac{5x^2-2x}{(x-2)(x+2)}   \\
-          &= \frac{x(5x-2)}{(x-2)(x+2)}
-\end{aligned}
-$$
+    **Solution:** $$
+    \begin{aligned}
+      \frac{2x}{x-2}+ \frac{3x}{x+2} &= \frac{2x(x+2)+3x(x-2)}{(x-2)(x+2)} \\
+           &= \frac{2x^2+4x+3x^2-6x}{(x-2)(x+2)}        \\
+           &= \frac{5x^2-2x}{(x-2)(x+2)}   \\
+           &= \frac{x(5x-2)}{(x-2)(x+2)}
+    \end{aligned}
+    $$
 
-4. $\frac{3x}{x^2-2ax+a^2}+\frac{2}{x+a}-\frac{1}{x-a}$
+4.  $\frac{3x}{x^2-2ax+a^2}+\frac{2}{x+a}-\frac{1}{x-a}$
 
-   **Solution:**
-$$
-\begin{aligned}
-     \frac{3x}{x^2-2ax+a^2}+\frac{2}{x+a}-\frac{1}{x-a} &= \frac{3x}{(x-a)(x-a)}+\frac{2}{x+a}-\frac{1}{x-a} \\
-          &= \frac{3x(x+a)+2(x-a)^2-1(x-a)(a)}{(x-a)^2(x+a)}        \\
-          &= \frac{3x^2+3ax+2(x^2-2ax+a^2)-1(x^2-a^2)}{(x-a)^2(x+a)} \\
-          &= \frac{3x^2+3ax+2x^2-4ax+2a^2-x^2+a^2}{(x-a)^2(x+a)} \\
-          &= \frac{4x^2-ax+3a^2}{(x-a)^2(x+a)}
-\end{aligned}
-$$
+    **Solution:** $$
+    \begin{aligned}
+      \frac{3x}{x^2-2ax+a^2}+\frac{2}{x+a}-\frac{1}{x-a} &= \frac{3x}{(x-a)(x-a)}+\frac{2}{x+a}-\frac{1}{x-a} \\
+           &= \frac{3x(x+a)+2(x-a)^2-1(x-a)(a)}{(x-a)^2(x+a)}        \\
+           &= \frac{3x^2+3ax+2(x^2-2ax+a^2)-1(x^2-a^2)}{(x-a)^2(x+a)} \\
+           &= \frac{3x^2+3ax+2x^2-4ax+2a^2-x^2+a^2}{(x-a)^2(x+a)} \\
+           &= \frac{4x^2-ax+3a^2}{(x-a)^2(x+a)}
+    \end{aligned}
+    $$
 
 ### MULTIPLICATION OF FRACTIONS
 
 The product of two or more fractions is determined by multiplying all the given numerators and dividing its product by the product of all the given denominators. The product can be simplified further if cancellation will be applied.
 
-:::{htm:steps}
-  **Steps for finding the product of two or more fractions**
+::: {htm:steps}
+**Steps for finding the product of two or more fractions**
 
-1. Simplify/Factor all members of the given fractions, if necessary.
-2. Cancel all sets of common factors present to the both numerator and denominator.
-3. Gather and multiply the remaining factors in the numerator and divide it by the product of all the remaining factors in the denominator.
+1.  Simplify/Factor all members of the given fractions, if necessary.
+2.  Cancel all sets of common factors present to the both numerator and denominator.
+3.  Gather and multiply the remaining factors in the numerator and divide it by the product of all the remaining factors in the denominator.
 :::
 
-  **Examples:**
+**Examples:**
 
-1. $\frac{a^2b}{a+b} \cdot \frac{a^2-b^2}{a^3b^2-a^2b}$
+1.  $\frac{a^2b}{a+b} \cdot \frac{a^2-b^2}{a^3b^2-a^2b}$
 
-   **Solution:**
-$$
-\begin{aligned}
-    \frac{a^2b}{a+b} \cdot \frac{a^2-b^2}{a^3b^2-a^2b} &= \frac{a^2b}{a+b} \cdot \frac{(a+b)(a-b)}{a^2b(ab-1)} \\
-         &= \frac{1}{1} \cdot \frac{1(a-b)}{1(ab-1)} \\
-         &= \frac{a-b}{ab-1}
-\end{aligned}
-$$
+    **Solution:** $$
+    \begin{aligned}
+     \frac{a^2b}{a+b} \cdot \frac{a^2-b^2}{a^3b^2-a^2b} &= \frac{a^2b}{a+b} \cdot \frac{(a+b)(a-b)}{a^2b(ab-1)} \\
+          &= \frac{1}{1} \cdot \frac{1(a-b)}{1(ab-1)} \\
+          &= \frac{a-b}{ab-1}
+    \end{aligned}
+    $$
 
-2. $\frac{m-1}{5m^2-m} \cdot \frac{(m+1)^2}{m^2-1}$
+2.  $\frac{m-1}{5m^2-m} \cdot \frac{(m+1)^2}{m^2-1}$
 
-   **Solution:**
-$$
-\begin{aligned}
-\frac{m-1}{5m^2-m} \cdot \frac{(m+1)^2}{m^2-1} &= \frac{m-1}{m(5m-1)} \cdot \frac{(m+1)(m+1)}{(m-1)(m+1)} \\
-     &= \frac{1}{m(5m-1)} \cdot \frac{m+1}{1} \\
-     &= \frac{m+1}{m(5m-1)}
-\end{aligned}
-$$
+    **Solution:** $$
+    \begin{aligned}
+    \frac{m-1}{5m^2-m} \cdot \frac{(m+1)^2}{m^2-1} &= \frac{m-1}{m(5m-1)} \cdot \frac{(m+1)(m+1)}{(m-1)(m+1)} \\
+      &= \frac{1}{m(5m-1)} \cdot \frac{m+1}{1} \\
+      &= \frac{m+1}{m(5m-1)}
+    \end{aligned}
+    $$
 
-3. $\frac{c^2-2cd+d^2}{c^3-d^3} \cdot \frac{c^2+cd+d^2}{c^2d^2}$
+3.  $\frac{c^2-2cd+d^2}{c^3-d^3} \cdot \frac{c^2+cd+d^2}{c^2d^2}$
 
-   **Solution**
-$$
-\begin{aligned}
-\frac{c^2-2cd+d^2}{c^3-d^3} \cdot \frac{c^2+cd+d^2}{c^2d^2} &= \frac{(c-d)(c-d)}{(c-d)(c^2+cd+d^2)} \cdot \frac{c^2+cd+d^2}{(c+d)(c-d)} \\
-     &= \frac{(1)(1)}{(1)(1)} \cdot \frac{1}{(c+d)(1)} \\
-     &= \frac{1}{c+d)}
-\end{aligned}
-$$
+    **Solution** $$
+    \begin{aligned}
+    \frac{c^2-2cd+d^2}{c^3-d^3} \cdot \frac{c^2+cd+d^2}{c^2d^2} &= \frac{(c-d)(c-d)}{(c-d)(c^2+cd+d^2)} \cdot \frac{c^2+cd+d^2}{(c+d)(c-d)} \\
+      &= \frac{(1)(1)}{(1)(1)} \cdot \frac{1}{(c+d)(1)} \\
+      &= \frac{1}{c+d)}
+    \end{aligned}
+    $$
 
-4. $\frac{3x^2}{x^2-1} \cdot \frac{x^2-6x-7}{3x^2-21x}$
+4.  $\frac{3x^2}{x^2-1} \cdot \frac{x^2-6x-7}{3x^2-21x}$
 
-   **Solution**
-$$
-\begin{aligned}
-\frac{3x^2}{x^2-1} \cdot \frac{x^2-6x-7}{3x^2-21x} &= \frac{3x(x)}{(x+1)(x-1)} \cdot \frac{(x-7)(x+1)}{3x(x-7)} \\
-& = \frac{1(x)}{1(x-1)} \cdot\frac{(1)(1)}{(1)(1)} \\
-&= \frac{x}{x-1}
-\end{aligned}
-$$
-:::
+    **Solution** $$
+    \begin{aligned}
+    \frac{3x^2}{x^2-1} \cdot \frac{x^2-6x-7}{3x^2-21x} &= \frac{3x(x)}{(x+1)(x-1)} \cdot \frac{(x-7)(x+1)}{3x(x-7)} \\
+    & = \frac{1(x)}{1(x-1)} \cdot\frac{(1)(1)}{(1)(1)} \\
+    &= \frac{x}{x-1}
+    \end{aligned}
+    $$ :::
 
 ### DIVISION OF FRACTIONS
 
-   In division of fractions, the quotient is determined by multiplying the fractional dividend by the reciprocal of the fractional divisor. The simplification used in multiplication of fractions shall be applied to simplify the quotient. The following steps will be helpful in performing division of fractions.
-   
-:::{htm:stepsinperformingdivisionoffraction}
-   **Steps in performing division of fractions**
+In division of fractions, the quotient is determined by multiplying the fractional dividend by the reciprocal of the fractional divisor. The simplification used in multiplication of fractions shall be applied to simplify the quotient. The following steps will be helpful in performing division of fractions.
 
-1. Simplify all expression given as numerator and denominator.
-2. Multiply the fractional dividend by the reciprocal (inverse) of the fractional divisor.
-3. Apply cancellation to common expression found in the numerator and denominator.
-4. Gather and multiply all remaining factors in the numerator then divide it by the product of all remaining factors of the denominator. 
+::: {htm:stepsinperformingdivisionoffraction}
+**Steps in performing division of fractions**
+
+1.  Simplify all expression given as numerator and denominator.
+2.  Multiply the fractional dividend by the reciprocal (inverse) of the fractional divisor.
+3.  Apply cancellation to common expression found in the numerator and denominator.
+4.  Gather and multiply all remaining factors in the numerator then divide it by the product of all remaining factors of the denominator.
 
 **Hint**: Once the reciprocal of the fractional divisor is taken, disregard the original operation, i.e., division and proceed as in multiplication of fractions.
 :::
 
-  **Examples:**
+**Examples:**
 
-1. $\frac{x}{x-3}\div \frac{x^2-x}{2x-6}$
+1.  $\frac{x}{x-3}\div \frac{x^2-x}{2x-6}$
 
-   **Solution:**
-$$
-\begin{aligned}
-\frac{x}{x-3}\div \frac{x^2-x}{2x-6} &= \frac{x}{x-3}\cdot\frac{2x-6}{x^2-x} \\
-         &= \frac{x}{x-3}\cdot\frac{2(x-3)}{x(x-1)} \\
-         &= \frac{1}{1}\cdot\frac{2(1)}{x-1} \\
-         &= \frac{2}{x-1}
-\end{aligned}
-$$
+    **Solution:** $$
+    \begin{aligned}
+    \frac{x}{x-3}\div \frac{x^2-x}{2x-6} &= \frac{x}{x-3}\cdot\frac{2x-6}{x^2-x} \\
+          &= \frac{x}{x-3}\cdot\frac{2(x-3)}{x(x-1)} \\
+          &= \frac{1}{1}\cdot\frac{2(1)}{x-1} \\
+          &= \frac{2}{x-1}
+    \end{aligned}
+    $$
 
-2. $\frac{5a-10b}{(a+b)^2}\div\frac{15a-20b}{2(a+b)^2}$
+2.  $\frac{5a-10b}{(a+b)^2}\div\frac{15a-20b}{2(a+b)^2}$
 
-   **Solution:**
-$$
-\begin{aligned}
-\frac{5a-10b}{(a+b)^2}\div\frac{15a-20b}{2(a+b)^2}&= \frac{5a-10b}{(a+b)^2}\cdot\frac{2(a+b)^2}{15a-20b} \\
-&= \frac{5(a-2b)}{(a+b)^2}\cdot\frac{2(a+b)^2}{5(3a-4b)} \\
-&= \frac{1(a-2b)}{1}\cdot\frac{2(1)}{3a-4b} \\
-&= \frac{2(a-2b)}{3a-4b} \\
-\end{aligned}
-$$
+    **Solution:** $$
+    \begin{aligned}
+    \frac{5a-10b}{(a+b)^2}\div\frac{15a-20b}{2(a+b)^2}&= \frac{5a-10b}{(a+b)^2}\cdot\frac{2(a+b)^2}{15a-20b} \\
+    &= \frac{5(a-2b)}{(a+b)^2}\cdot\frac{2(a+b)^2}{5(3a-4b)} \\
+    &= \frac{1(a-2b)}{1}\cdot\frac{2(1)}{3a-4b} \\
+    &= \frac{2(a-2b)}{3a-4b} \\
+    \end{aligned}
+    $$
 
-3. $\frac{z^2-1}{z^2+2z+1}\div z^3-1$
+3.  $\frac{z^2-1}{z^2+2z+1}\div z^3-1$
 
-   **Solution:**
-$$
-\begin{aligned}
-\frac{z^2-1}{z^2+2z+1}\div z^3-1 &= \frac{z^2-1}{z^2+2z+1}\div\frac{1}{z^3-1}\\
-&= \frac{(z+1)(z-1)}{(z+1)(z+1)}\cdot\frac{1}{(z-1)(z^2+z+1)} \\
-&=\frac{(1)(1)}{(1)(z+1)}\cdot\frac{1}{(1)(z^2+z+1)} \\
-&=\frac{1}{(z+1)(z^2+z+1)}
-\end{aligned}
-$$
-:::
+    **Solution:** $$
+    \begin{aligned}
+    \frac{z^2-1}{z^2+2z+1}\div z^3-1 &= \frac{z^2-1}{z^2+2z+1}\div\frac{1}{z^3-1}\\
+    &= \frac{(z+1)(z-1)}{(z+1)(z+1)}\cdot\frac{1}{(z-1)(z^2+z+1)} \\
+    &=\frac{(1)(1)}{(1)(z+1)}\cdot\frac{1}{(1)(z^2+z+1)} \\
+    &=\frac{1}{(z+1)(z^2+z+1)}
+    \end{aligned}
+    $$ :::
 
 ### COMPLEX FRACTIONS
 
@@ -295,13 +276,11 @@ A complex fraction is a fraction whose numerator and/or denominator is composed 
 
 A complex fraction can be simplified by first combining both its numerator and its denominator into single fractions, then inverting the denominator and multiplying.
 
-  **Examples:Simplifying a Complex Fraction**
+**Examples:Simplifying a Complex Fraction**
 
 1.$\frac{z-\frac{1}{2}}{z-\frac{1}{z}}$
 
-  **Solution:**
-   Combining numerator and denominator fractions, we have
-$$
+**Solution:** Combining numerator and denominator fractions, we have $$
 \begin{aligned}
 \frac{z-\frac{1}{2}}{z-\frac{1}{z}}&= \frac{\frac{z-1}{z}}{\frac{z^2-1}{z}}  &&& \text{Combine Fractions} \\
 &= \frac{z-1}{z}\cdot\frac{z}{z^2-1}  &&& \text{Simplify} \\
@@ -310,70 +289,60 @@ $$
 \end{aligned}
 $$
 
-2. $\frac{\frac{2}{x}-3}{1-\frac{1}{x-1}}$
+2.  $\frac{\frac{2}{x}-3}{1-\frac{1}{x-1}}$
 
-   **Solution**
-  Combining numerator and denominator fractions, we have 
-$$
-\begin{aligned}
-\frac{\frac{2}{x}-3}{1-\frac{1}{x-1}}&= \frac{\frac{2-3(x)}{x}}{\frac{1(x-1)-1}{x-1}}  &&& \text{Combine Fractions} \\
-&= \frac{\frac{2-3x}{x}}{\frac{x-2}{x-1}} &&& \text{Simplify} \\
-&= \frac{2-3x}{x}\cdot\frac{x-2}{x-1}   \\
-& = \frac{2-3x}{x}\cdot\frac{x-1}{x-2} &&& \text{Invert Denominator}\\
-&= \frac{(2-3x)(x-1)}{x(x-2)}
-\end{aligned}
-$$
-3. $\frac{\frac{1}{x^2}-\frac{1}{y^2}}{\frac{1}{x}-\frac{1}{y}}$
+    **Solution** Combining numerator and denominator fractions, we have $$
+    \begin{aligned}
+    \frac{\frac{2}{x}-3}{1-\frac{1}{x-1}}&= \frac{\frac{2-3(x)}{x}}{\frac{1(x-1)-1}{x-1}}  &&& \text{Combine Fractions} \\
+    &= \frac{\frac{2-3x}{x}}{\frac{x-2}{x-1}} &&& \text{Simplify} \\
+    &= \frac{2-3x}{x}\cdot\frac{x-2}{x-1}   \\
+    & = \frac{2-3x}{x}\cdot\frac{x-1}{x-2} &&& \text{Invert Denominator}\\
+    &= \frac{(2-3x)(x-1)}{x(x-2)}
+    \end{aligned}
+    $$
 
-   **Solution**
-$$
-\begin{aligned}
-\frac{\frac{1}{x^2}-\frac{1}{y^2}}{\frac{1}{x}-\frac{1}{y}}&= \frac{(\frac{1}{x^2}-\frac{1}{y^2})x^2y^2}{(\frac{1}{x}-\frac{1}{y})x^2y^2}  \\
-&= \frac{(\frac{1}{x^2})x^2y^2-(\frac{1}{y^2})x^2y^2}{(\frac{1}{x})x^2y^2-(\frac{1}{y})x^2y^2} \\
-&= \frac{y^2-x^2}{xy^2+x^2y}   \\
-& = \frac{(y-x)(y+x)}{xy(y+x)}  \\
-&= \frac{y-x}{xy}
-\end{aligned}
-$$
+3.  $\frac{\frac{1}{x^2}-\frac{1}{y^2}}{\frac{1}{x}-\frac{1}{y}}$
 
-4. $\frac{\sqrt{4-x^2}+\frac{x^2}{\sqrt{4-x^2}}}{4-x^2}$
+    **Solution** $$
+    \begin{aligned}
+    \frac{\frac{1}{x^2}-\frac{1}{y^2}}{\frac{1}{x}-\frac{1}{y}}&= \frac{(\frac{1}{x^2}-\frac{1}{y^2})x^2y^2}{(\frac{1}{x}-\frac{1}{y})x^2y^2}  \\
+    &= \frac{(\frac{1}{x^2})x^2y^2-(\frac{1}{y^2})x^2y^2}{(\frac{1}{x})x^2y^2-(\frac{1}{y})x^2y^2} \\
+    &= \frac{y^2-x^2}{xy^2+x^2y}   \\
+    & = \frac{(y-x)(y+x)}{xy(y+x)}  \\
+    &= \frac{y-x}{xy}
+    \end{aligned}
+    $$
 
-   **Solution**
-$$
-\begin{aligned}
-\frac{\sqrt{4-x^2}+\frac{x^2}{\sqrt{4-x^2}}}{4-x^2}&= \frac{\sqrt{4-x^2}+\frac{x^2}{\sqrt{4-x^2}}}{4-x^2}\cdot\frac{\sqrt{4-x^2}}{\sqrt{4-x^2}}  \\
-&= \frac{(4-x^2)+x^2}{(4-x)^\frac{3}{2}} \\
-&= \frac{4}{\sqrt{(4-x^2)^3}}
-\end{aligned}
-$$
+4.  $\frac{\sqrt{4-x^2}+\frac{x^2}{\sqrt{4-x^2}}}{4-x^2}$
+
+    **Solution** $$
+    \begin{aligned}
+    \frac{\sqrt{4-x^2}+\frac{x^2}{\sqrt{4-x^2}}}{4-x^2}&= \frac{\sqrt{4-x^2}+\frac{x^2}{\sqrt{4-x^2}}}{4-x^2}\cdot\frac{\sqrt{4-x^2}}{\sqrt{4-x^2}}  \\
+    &= \frac{(4-x^2)+x^2}{(4-x)^\frac{3}{2}} \\
+    &= \frac{4}{\sqrt{(4-x^2)^3}}
+    \end{aligned}
+    $$
 
 ### LEARNING ACTIVITIES
 
 A. Simplify the following expression.
 
-1. $\frac{x^2+4x-12}{3x-6}$
-2. $\frac{x^3-4x}{x^2+x-2}$
-3. $\frac{12+x-x^2}{2x^2-9x+4}$
+1.  $\frac{x^2+4x-12}{3x-6}$
+2.  $\frac{x^3-4x}{x^2+x-2}$
+3.  $\frac{12+x-x^2}{2x^2-9x+4}$
 
-B. Perform the indicated operation and simplify
-1. $\frac{x^3-8}{x^2-4}\div\frac{x^2+2x+4}{x^3-8}$
-2. $\frac{2x^2+x-6}{x^2+4x-5}\cdot\frac{x^3-3x^2+2x}{4x^2-6x}$
-3. $\frac{x}{x-3}-\frac{2}{3x+4}$
-
+B. Perform the indicated operation and simplify 1. $\frac{x^3-8}{x^2-4}\div\frac{x^2+2x+4}{x^3-8}$ 2. $\frac{2x^2+x-6}{x^2+4x-5}\cdot\frac{x^3-3x^2+2x}{4x^2-6x}$ 3. $\frac{x}{x-3}-\frac{2}{3x+4}$
 
 ### ASSIGNMENT
 
-1. $\frac{3}{x-1}-\frac{2}{x}+\frac{x+3}{x^2-1}$
-2. $\frac{x-2}{x^2+6x+9}-\frac{x+2}{2x^2-18}$
-3. $\frac{\frac{1}{x+h}-\frac{1}{x}}{h}$
-4. $\frac{\frac{1}{a}+\frac{1}{b}}{\frac{1}{a}-\frac{1}{b}}$
-5. $\frac{{\frac{m+1}{m-2}+\frac{m+1}{m-1}}}{\frac{m+2}{m-2}}$
+1.  $\frac{3}{x-1}-\frac{2}{x}+\frac{x+3}{x^2-1}$
+2.  $\frac{x-2}{x^2+6x+9}-\frac{x+2}{2x^2-18}$
+3.  $\frac{\frac{1}{x+h}-\frac{1}{x}}{h}$
+4.  $\frac{\frac{1}{a}+\frac{1}{b}}{\frac{1}{a}-\frac{1}{b}}$
+5.  $\frac{{\frac{m+1}{m-2}+\frac{m+1}{m-1}}}{\frac{m+2}{m-2}}$
 
 ### EVALUATION
-
 
 ### REFERENCES
 
 Jesuitas, R.M., et al. (2013).College Algebra. MUTYA PUBLISHING HOUSE, INC. Malabon City. ISBN 978-971-821-402-2
-
-

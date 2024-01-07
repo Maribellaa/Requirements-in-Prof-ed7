@@ -5,24 +5,26 @@ format: html
 editor: visual
 ---
 
-## **LESSON TITLE**
+### **I. UNIT TITLE/CHAPTER TITLE:**
+  Chapter 1 - Fundamental Concepts of Algebra
+    
+### **II. LESSON TITLE:**
+  Lesson 6: Fractional Expressions
+    
+### **III. LESSON OVERVIEW:**
+  This chapter will discuss on the key concepts on the operations on rational expressions. Quotients or algebraic expressions are called **fractional expression**. Moreover, quotients of two polynomials such as $\frac{x^2-9}{x^2-7x+12},\qquad\frac{7}{4x-1},\qquad \frac{x-5}{4x^2-9}$ are called **rational expressions**.
 
-Fractions
+### **IV. DESIRED LEARNING OUTCOMES**
+   At the end of this chapter, the student should be able to:
+1. Define rational expressions. 
+2. Simplify rational algebraic expressions.
+3. Perform operations on rational algebraic expressions.
+4. Simplify complex fractions.
 
-## **LESSON OVERVIEW**
-
-In Algebra, the concept of fraction is also helpful. The basic principle for fractions in arithmetic is also applied to algebraic fractions. Knowledge in factoring will be very useful in simplification of fractions. In this chapter, member of a fraction refers to the numerator and denominator of the given expression.
-
-### **DESIRED LEARNING OUTCOMES**
-
-At the end of this chapter, the student should be able to:
-
-1. Determine the common factor to the both members of the fraction and reduced fraction to it's lowest term.
-3.  Determine the least common denominator (LCD) of the given fractions and solve for the equivalent fractions.
-4.  Use the more common formulas in finding the product of two or more functions.
-5.  Solve the qoutient of the given fractions.
-
-### **LESSON CONTENT**
+### **V. LESSON CONTENT**
+   The domain of a rational expression is the set of all numbers for which the denominator is not zero. In symbols: $\frac{P}{Q}$, where $P$ and $Q$ are polynomials and $Q \ne 0$.
+   
+   The rules for operating with fractional expression are like those for numerical fractions. Recall that a fraction is reduced to lowest terms if its numerator and denominator have no factors in common aside from $\pm 1$. 
 
 **Reduce Fraction to Lowest Terms**
 
