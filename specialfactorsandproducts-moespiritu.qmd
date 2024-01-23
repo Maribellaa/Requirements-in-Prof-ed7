@@ -1,51 +1,61 @@
 ---
-title: "Special Product and Factors"
+title: "Special Factors and Products"
 author: "Maribel Espiritu"
-format: revealjs
+format: pptx
 editor: visual
 ---
 
 ## SPECIAL PRODUCT {.smaller transition="fade-in fade-out"}
 
-I.  Product of a Monomial and a Polynomial
-$$a(x+y)=ax+ay$$
+1. Product of a Monomial and a Polynomial
+$a(x+y)=ax+ay$
 
-II. Product of the Sum and Difference of Two Terms
-$$(x+y)(x-y)=x^2-y^2$$
+2. Product of the Sum and Difference of Two Terms
 
-III. Square of a Binomial
-$$(x+y)^2=x^2+2xy+y^2)\\
-(x-y)^2=x^2-2xy+y^2)$$
+$(x+y)(x-y)=x^2-y^2$
+
+3. Square of a Binomial
+
+$(x+y)^2=x^2+2xy+y^2)$ and
+
+$(x-y)^2=x^2-2xy+y^2)$
+
 
 ::: footer
-1
 :::
 
 ## SPECIAL PRODUCT {.smaller transition="fade-in fade-out"}
 
-IV. Product of Two Binomial
-$$(x+a)(x+b)=x^2+(a+b)x+ab \\
-(ax+b)(cx+d)=acx^2+(ad+bc)x+bd$$
+4. Product of Two Binomial
 
-V.  Cube of a Binomial
-$$(x+y)^3=x^3+3x^2y+3xy^2+y^3 \\
-(x-y)^3=x^3-3x^2y+3xy^2-y^3$$
+$(x+a)(x+b)=x^2+(a+b)x+ab$ and 
 
-VI. Square of a Trinomial
-$$(x+y+z)^2= x^2+y^2+z^2+2xy+2xz+2yz$$
+$(ax+b)(cx+d)=acx^2+(ad+bc)x+bd$
+
+5. Cube of a Binomial
+
+$(x+y)^3=x^3+3x^2y+3xy^2+y^3$ and
+
+$(x-y)^3=x^3-3x^2y+3xy^2-y^3$
+
 
 ::: footer
-2
 :::
 
 ## SPECIAL PRODUCT {.smaller transition="fade-in fade-out"}
 
-VII. Other Special Products
-$$(x+y)(x^2-xy+y^2)=x^3+y^3 \\
-(x-y)(x^2+xy+y^2)=x^3-y^3$$
+6. Square of a Trinomial
+
+$(x+y+z)^2= x^2+y^2+z^2+2xy+2xz+2yz$
+
+
+7.  Other Special Products
+
+$(x+y)(x^2-xy+y^2)=x^3+y^3$ and 
+
+$(x-y)(x^2+xy+y^2)=x^3-y^3$
 
 ::: footer
-3
 :::
 
 ## PRODUCT OF A MONOMIAL AND A POLYNOMIAL {.smaller transition="fade-in fade-out"}
@@ -66,7 +76,6 @@ $$a(x+y)= ax+ay$$
 2.  $x(2x+3y)=x(2x)+x(3y)=2x^2+ 3xy$
 
 ::: footer
-4
 :::
 
 ## PRODUCT OF THE SUM AND DIFFERENCE OF TWO TERMS {.smaller transition="fade-in fade-out"}
@@ -79,42 +88,56 @@ $$(x+y)(x-y)=x^2-y^2$$
 
 1.  $(3x+4y) (3x-4y)=(3x)^2-(4y)^2=9x^2-16y^2$
 2.  $$\begin{align}(x+y-3)(x+y+3)&= [(x+y)-3][(x+y)+3] \\
-&=(x+y)^2-(3)^2= x^2+2xy+y^2-9
+&=(x+y)^2-(3)^2 \\
+&= x^2+2xy+y^2-9
 \end{align}$$
 
 ::: footer
-5
 :::
 
 ## SQUARE OF A BINOMIAL {.smaller transition="fade-in fade-out"}
 
-The square of a binomial consists of the square of the first term; twice the product of the first and last terms; and the square of the last term
+The square of a binomial consists of the square of the first term; twice the product of the first and last terms; and the square of the last term.
 
-$$(x+y)^2=x^2+2xy+y^2\\
-(x-y)^2=x^2-2xy+y^2$$
+$(x+y)^2=x^2+2xy+y^2$ and $(x-y)^2=x^2-2xy+y^2$
 
 **Example:**
 
-1.  $(x-5)^2=(x)^2-2(x)(5)+(5)^2= x^2-10x+25$
-2.  $(3x+4y)^2= (3x)^2+2(3x)(4y)+(4y)^2= 3x^2+24xy+16y^2$
-3.  $(x-3y)=(x)^2-(2)(x)(3y)+(3y)^2= x^2-6xy+9y^2$
+1.  $$\begin{aligned}(x-5)^2=(x)^2-2(x)(5)+(5)^2
+&= x^2-10x+25\end{aligned}$$
+
+2.  $$\begin{aligned}(3x+4y)^2= (3x)^2+2(3x)(4y)+(4y)^2
+&= 3x^2+24xy+16y^2\end{aligned}$$
+
+3.  $$\begin{aligned}(x-3y)=(x)^2-(2)(x)(3y)+(3y)^2= x^2-6xy+9y^2\end{aligned}$$
 
 ::: footer
-6
+
 :::
 
 ## PRODUCT OF TWO BINOMIAL {.smaller transition="fade-in fade-out"}
 
-$$(x+a)(x+b)=x^2+(a+b)x+ab \\
-(ax+b)(cx+d)=acx^2+(ad+bc)x+bd$$
+$$(x+a)(x+b)=x^2+(a+b)x+ab$$ and 
 
-To find the product of two binomials, you must multiply each factor of the first binomial by each factor of the second using the FOIL (First, Outer, Inner, and Last) method. 
+$$(ax+b)(cx+d)=acx^2+(ad+bc)x+bd$$
 
-1. $$(x+5)(x-2)=(x)^2+[(5-2)x+(5)(-2)$$
-2. $$(2x+3)(4x+2)=(2)(4)(x)^2+[(2)(2)+(3)(4)]x+(3)(2)$$
+
+$\qquad$ To find the product of two binomials, you must multiply each factor of the first binomial by each factor of the second using the FOIL (First, Outer, Inner, and Last) method. 
 
 ::: footer
-7
+:::
+
+## PRODUCT OF TWO BINOMIAL {.smaller transition="fade-in fade-out"}
+
+**Example**
+
+1. $$\begin{aligned}(x+5)(x-2)&=(x)^2+[(5-2)x+(5)(-2) \\
+&= x^2+3x-10\end{aligned}$$
+
+2. $$\begin{aligned}(2x+3)(4x+2)&=(2)(4)(x)^2+[(2)(2)+(3)(4)]x+(3)(2)\\
+&= 8x^2+16x+6\end{aligned}$$
+
+::: footer
 :::
 
 ## CUBE OF A BINOMIAL {.smaller transition="fade-in fade-out"}
@@ -124,15 +147,28 @@ $$(x+y)^3=x^3+3x^2y+3xy^2+y^3$$
 **Example:**
 
 1.  $(2x+3y)^3$
-a.  Find the cube of each term to get the first and the last terms. 
-$\qquad(2x)^3 = 8x^3, \qquad (3y)^3=27y^3$
-b.  The second term is three times the product of the square of the first term and the second term. $\qquad 3(2x)^2(3y)= 36x^2y$
-c.  The third term is three times the product of the first term and the square of the second term. $\qquad 3(2x)(3y)^2= 54xy^2$
 
-Hence, $\qquad (2x+3y)^3$= $8x^3+36x^2y+54xy^2+27y^3$
+a.  Find the cube of each term to get the first and the last terms. 
+
+$$\qquad(2x)^3 = 8x^3, \qquad (3y)^3=27y^3$$
+
+b.  The second term is three times the product of the square of the first term and the second term. 
+
+$$3(2x)^2(3y)= 36x^2y$$
 
 ::: footer
-8
+:::
+
+## CUBE OF A BINOMIAL {.smaller transition="fade-in fade-out"}
+
+c.  The third term is three times the product of the first term and the square of the second term.
+
+$$3(2x)(3y)^2= 54xy^2$$
+
+Hence, $$(2x+3y)^3= 8x^3+36x^2y+54xy^2+27y^3$$
+
+::: footer
+
 :::
 
 ## CUBE OF A BINOMIAL {.smaller transition="fade-in fade-out"}
@@ -142,14 +178,26 @@ $$(x-y)^3=x^3-3x^2y+3xy^2-y^3$$
 2.  $(4y-2z)^3$
 
 a.  Find the cube of each term to get the first and the last terms. 
-$\qquad (4y)^3 = 64x^3, \qquad (-2z)^3= -8y^3$
-b.  The second term is three times the product of the square of the first term and the second term. $\qquad 3(4y)^2(-2z)= -96y^2z$
-c.  The third term is three times the product of the first term and the square of the second term. $\qquad 3(4y)(-2z)^2= 48yz^2$
+$$(4y)^3 = 64x^3, \qquad (-2z)^3= -8y^3$$
 
-Hence, $\qquad (4y-2z)^3$= $64x^3+-96y^2z+ 48yz^2-8y^3$
+b.  The second term is three times the product of the square of the first term and the second term. 
+
+$$3(4y)^2(-2z)= -96y^2z$$
 
 ::: footer
-9
+
+:::
+
+## CUBE OF A BINOMIAL {.smaller transition="fade-in fade-out"}
+
+c.  The third term is three times the product of the first term and the square of the second term. 
+
+$$3(4y)(-2z)^2= 48yz^2$$
+
+Hence, $$(4y-2z)^3$= $64x^3+-96y^2z+ 48yz^2-8y^3$$
+
+::: footer
+
 :::
 
 ## SQUARE OF A TRINOMIAL {.smaller transition="fade-in fade-out"}
@@ -161,21 +209,27 @@ $$(x+y+z)^2= x^2+y^2+z^2+2xy+2xz+2yz$$
 1. $(2x+3y+2z)^2$
 
 a. Find the sum of the squares of the first, second, and the last terms.
-$(2x)^2 = 4x^2, \qquad (3y)^2=9y^2, \qquad (2z)^2=4z^2$
+
+$$(2x)^2 = 4x^2, \qquad (3y)^2=9y^2, \qquad (2z)^2=4z^2$$
 
 b. twice the product of the first and the second terms
-$\qquad 2(2x)(3y)= 12xy$
 
-c. twice the product of the first and the last terms.
-$\qquad 2(2x)(2z)=8xz$
-
-d. twice the product of the second and the last terms.
-$\qquad 2(3y)(2z)=12yz$
-
-Hence, $\qquad (2x+3y+2z)^2= 4x^2+9y^2+4z^2+12xy+8xz+12yz$
+$$ 2(2x)(3y)= 12xy$$
 
 ::: footer
-10
+:::
+
+## SQUARE OF A TRINOMIAL {.smaller transition="fade-in fade-out"}
+
+c. twice the product of the first and the last terms.
+$$ 2(2x)(2z)=8xz$$
+
+d. twice the product of the second and the last terms.
+$$ 2(3y)(2z)=12yz$$
+
+Hence, $$\ (2x+3y+2z)^2= 4x^2+9y^2+4z^2+12xy+8xz+12yz$$
+
+::: footer
 :::
 
 ## SQUARE OF A TRINOMIAL {.smaller transition="fade-in fade-out"}
